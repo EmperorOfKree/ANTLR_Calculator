@@ -13,5 +13,5 @@ ANTLR4+Python3 project which simulates a calculator
   
 ## Editing this project
 1. For this, I'd sujest you to download the PyCharm and [configure it](https://www.jetbrains.com/help/pycharm/setting-up-your-project.html)
-2. With PyCharm (IntelliJ), it's a lot easier to work with ANTLR. Just follow [this](https://www.youtube.com/watch?v=svEZtRjVBTY) and [this])(https://youtu.be/dPWWcH5uM0g) tutorials and you're good to go!
-  2.1. Yes, the tutorials are for IntelliJ+JAVA, but the configurations are the same to use it with PyCharm+Python.
+2. With PyCharm (IntelliJ), it's a lot easier to work with ANTLR. Just follow [this](https://www.youtube.com/watch?v=svEZtRjVBTY) and [this](https://youtu.be/dPWWcH5uM0g) tutorials and you're good to go!
+    * Yes, the tutorials are for IntelliJ+JAVA, but the configurations are the same to use it with PyCharm+Python.
