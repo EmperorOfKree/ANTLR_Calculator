@@ -3,8 +3,8 @@ ANTLR4+Python3 project which simulates a calculator
 
 ## Preparing the ambient to run it
 1. Install [Python 3+](https://www.python.org/downloads/)
-  1.1. Make sure to have the command __python__ working in your _terminal/cmd_
-  1.2. Make sure to have __PIP__ working as well!
+  A. Make sure to have the command __python__ working in your _terminal/cmd_
+  B. Make sure to have __PIP__ working as well!
 
 2. In yout _terminal/cmd_ run `<addr>` pip install antlr4-python3-runtime
 
