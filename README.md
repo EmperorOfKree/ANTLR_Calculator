@@ -9,7 +9,7 @@ ANTLR4+Python3 project which simulates a calculator
 2. In yout _terminal/cmd_ run `pip install antlr4-python3-runtime`;
 
 3. In yout terminal/cmd run  `python Calculator.py`;
-   * It shoud run without any errors. If it does get erros, __please let me know!__.
+   * It shoud run without any errors. If it does get erros, __please let me know!__
   
 
 ## Editing this project
